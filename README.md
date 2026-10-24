@@ -1,6 +1,6 @@
 # Kraken Krits & Fumbles C&C
 
-Critical hits and fumbles with a table for Castles & Crusades (official CnCRPG and SC C&C on SiegeCore), applied in Fantasy Grounds Unity.
+Critical hits and fumbles with a table for official Castles & Crusades (CnCRPG); SC C&C has it built into SiegeCore, applied in Fantasy Grounds Unity.
 
 A natural 20 on an attack is a critical hit and a natural 1 a fumble (Castle Keeper's Guide, Chapter 17). The CK picks which of the book's optional rules is used:
 
@@ -43,4 +43,4 @@ Results print `[KRAKEN CRITICAL]` / `[KRAKEN FUMBLE]`, which the Kraken Syrinsca
 
 ## Install
 
-Copy `KrakenKritsCC` into the Fantasy Grounds `extensions` folder and tick it for a Castles & Crusades (official CnCRPG and SC C&C on SiegeCore) campaign.
+Copy `KrakenKritsCC` into the Fantasy Grounds `extensions` folder and tick it for a official Castles & Crusades (CnCRPG); SC C&C has it built into SiegeCore campaign.
